@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "53d07f46423b60f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b71490e762f4070",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5ec782679dbd4f4",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d9d90b4591b8067",
+    "type": "split",
+    "children": [
+      {
+        "id": "378354f4dbdfce17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "156b963f66b0134b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fe563b19fb3eae96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "92f935357911a7b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "e404ceaca450ac90",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8f392c00b979a7a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a96f3d9bd2d438c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08b0d2c7a21c4c0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "总录/5.数学/质因数与公约数(重).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "质因数与公约数(重) 的反向链接列表"
+            }
+          },
+          {
+            "id": "a7601321db12f836",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "6450da53cf3388cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c0627a60144432ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "ed9aa10fa8ed2d8c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "07026e430efe3210",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-memos:Thino": false
+    }
+  },
+  "active": "f5ec782679dbd4f4",
+  "lastOpenFiles": [
+    "总录/5.数学/质因数与公约数(重).md",
+    "蓝桥.md",
+    "Tags",
+    "示例代码(重要文件勿动)/1.基础算法/位运算/代码示例.md",
+    "Excalidraw/Drawing 2025-02-04 10.46.42.excalidraw.md",
+    "Excalidraw",
+    "未命名sadasd a.md",
+    "md.md",
+    "footnotes.md",
+    "总录/5.数学/裴蜀定理.md",
+    "aSAs.md",
+    "总录/5.数学/素数筛法.md",
+    "总录/5.数学/矩阵乘法.md",
+    "总录/5.数学/欧拉函数.md",
+    "总录/5.数学/概率与期望.md",
+    "总录/5.数学/未命名.md",
+    "总录/3.搜索基础(重)/dfs（深度优先搜索）.md",
+    "总录/2.数据结构基础/单调栈.md",
+    "总录/2.数据结构基础/优先队列（重）.md",
+    "总录/1.基础算法/二维前缀和差分.md",
+    "示例代码(重要文件勿动)/1.基础算法/二维前缀和二维差分/二维前缀和示例.md",
+    "总录/4.动态规划/组合数原理-选与不选.md",
+    "总录/4.动态规划/线性dp.md",
+    "总录/4.动态规划/树形dp(可跳).md",
+    "总录/4.动态规划/数位dp(可跳).md",
+    "总录/4.动态规划/完全背包.md",
+    "总录/4.动态规划/动态规划的概念.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "图片(重要文件勿动)/选与不选/选与不选式子.png",
+    "图片(重要文件勿动)/选与不选/选与不选.png",
+    "图片(重要文件勿动)/选与不选",
+    "图片(重要文件勿动)/一维前缀和一维差分/差分题目.png",
+    "图片(重要文件勿动)/单调栈",
+    "图片(重要文件勿动)/单调栈/单调栈.png",
+    "Pasted image 20250119111022.png",
+    "图片(重要文件勿动)/优先队列/优先队列-根堆大.png",
+    "图片(重要文件勿动)/优先队列/优先队列-根堆小.png",
+    "图片(重要文件勿动)/优先队列",
+    "图片(重要文件勿动)/二维前缀和二维差分/二维前缀和/二维前缀和题目.png",
+    "图片(重要文件勿动)/二维前缀和二维差分/二维差分",
+    "图片(重要文件勿动)/二维前缀和二维差分/二维前缀和",
+    "图片(重要文件勿动)/二维前缀和二维差分",
+    "图片(重要文件勿动)/二维前缀和二维差分/二维差分/二维差分题目.png",
+    "图片(重要文件勿动)/栈与队列/队列/Pasted image 20250117202742.png",
+    "示例代码(重要文件勿动)/1.基础算法/二维前缀和二维差分",
+    "图片(重要文件勿动)/一维前缀和一维差分"
+  ]
+}

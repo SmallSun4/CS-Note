@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"a559b4a3bbccd71f","x":84,"y":42,"width":400,"height":400,"type":"file","file":"达到.md"},
+		{"id":"652f15954f42b102","x":-206,"y":79,"width":286,"height":60,"type":"text","text":"啊大叔"},
+		{"id":"0b2a905c3b6ee37c","x":-188,"y":0,"width":250,"height":60,"type":"text","text":"阿斯达斯"}
+	],
+	"edges":[]
+}

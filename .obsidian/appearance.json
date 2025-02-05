@@ -1,0 +1,12 @@
+{
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "styles",
+    "main",
+    "obsidian-default-theme"
+  ],
+  "cssTheme": "Things",
+  "accentColor": "#e9d7df",
+  "monospaceFontFamily": "Andale Mono"
+}
