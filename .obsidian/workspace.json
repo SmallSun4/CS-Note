@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5ec782679dbd4f4",
+            "id": "81ce72f5dbe37f70",
             "type": "leaf",
             "state": {
               "type": "thino_view",
@@ -16,8 +16,23 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "00f24e9e09bbaa59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "总录/5.数学/质因数与公约数(重).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "质因数与公约数(重)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +86,7 @@
             }
           },
           {
-            "id": "e404ceaca450ac90",
+            "id": "f4d07ca9fa1ae8aa",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -199,10 +214,16 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "f5ec782679dbd4f4",
+  "active": "00f24e9e09bbaa59",
   "lastOpenFiles": [
+    "总录/5.数学/费马定理.md",
+    "总录/1.基础算法/二维前缀和差分.md",
     "总录/5.数学/质因数与公约数(重).md",
     "蓝桥.md",
+    "示例代码(重要文件勿动)/最大公约数示例.md",
+    "示例代码(重要文件勿动)/1.基础算法/二维前缀和二维差分/二维前缀和示例.md",
+    "总录/5.数学/唯一分解定理与gcd,lcm的关系.md",
+    "声明(必看).md",
     "Tags",
     "示例代码(重要文件勿动)/1.基础算法/位运算/代码示例.md",
     "Excalidraw/Drawing 2025-02-04 10.46.42.excalidraw.md",
@@ -220,14 +241,9 @@
     "总录/3.搜索基础(重)/dfs（深度优先搜索）.md",
     "总录/2.数据结构基础/单调栈.md",
     "总录/2.数据结构基础/优先队列（重）.md",
-    "总录/1.基础算法/二维前缀和差分.md",
-    "示例代码(重要文件勿动)/1.基础算法/二维前缀和二维差分/二维前缀和示例.md",
     "总录/4.动态规划/组合数原理-选与不选.md",
     "总录/4.动态规划/线性dp.md",
     "总录/4.动态规划/树形dp(可跳).md",
-    "总录/4.动态规划/数位dp(可跳).md",
-    "总录/4.动态规划/完全背包.md",
-    "总录/4.动态规划/动态规划的概念.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "图片(重要文件勿动)/选与不选/选与不选式子.png",

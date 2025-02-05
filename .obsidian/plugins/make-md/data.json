@@ -39,20 +39,18 @@
     "//1、总录",
     "//3、示例代码(重要文件勿动)",
     "//2、图片(重要文件勿动)",
-    "//总录",
     "//总录/总录/5.数学",
     "//总录/总录/1.基础算法",
     "//Tags",
-    "/"
+    "/",
+    "//示例代码(重要文件勿动)",
+    "//总录"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [
-    "示例代码(重要文件勿动)",
-    "图片(重要文件勿动)"
-  ],
+  "hiddenFiles": [],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
